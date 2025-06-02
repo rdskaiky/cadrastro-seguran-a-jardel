@@ -1,0 +1,19 @@
+{
+  "usuarios": [
+    {
+      "nome": "João Silva",
+      "email": "joao.silva@example.com",
+      "senha": "senhaSegura123"
+    },
+    {
+      "nome": "Maria Oliveira",
+      "email": "maria.oliveira@example.com",
+      "senha": "minhaSenha456"
+    },
+    {
+      "nome": "Carlos Santos",
+      "email": "carlos.santos@example.com",
+      "senha": "senhaForte789"
+    }
+  ]
+}
